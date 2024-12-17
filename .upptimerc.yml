@@ -13,7 +13,7 @@ status-website:
   baseUrl: /DutyMonitor
   logoUrl: https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_the_Army_of_Egypt.svg
   name: Duty Monitor
-  introTitle: "**A Monitor** for my [Visit Duty Free](https://duty-free-etahamads-projects.vercel.app)."
+  introTitle: "**A Monitor** for [Duty](https://duty-free-etahamads-projects.vercel.app)."
   introMessage:
   navbar:
     - title: Status
