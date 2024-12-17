@@ -12,9 +12,9 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /DutyMonitor
   logoUrl: https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_the_Army_of_Egypt.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Duty Monitor
+  introTitle: "**A Monitor** for my [Visit Duty Free](https://duty-free-etahamads-projects.vercel.app)."
+  introMessage:
   navbar:
     - title: Status
       href: /
